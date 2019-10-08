@@ -1,0 +1,7 @@
+
+same_domain_penalty = 10
+standard_crawl_duration = 2
+
+SUPER_FRONTIER_LENGTH = 100
+SUPER_FRONTIER_PARTS = 5
+SUPER_FRONTIER_DOMAIN_REPEATS = 10
